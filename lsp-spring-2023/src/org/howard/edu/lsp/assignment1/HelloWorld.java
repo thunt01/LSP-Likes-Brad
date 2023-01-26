@@ -1,4 +1,4 @@
-package org.howard.edu.hw1;
+package org.howard.edu.lsp.assignment1;
 
 public class HelloWorld {
 
